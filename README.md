@@ -1,12 +1,43 @@
 <div align="center">
   
-  <img src="https://github.com/LinJohn8.png" width="100" style="border-radius: 50%; border: 2px solid #30363d;"/>
+  <a href="https://LinJohn8.github.io" target="_blank">
+    <img src="https://github.com/LinJohn8.png" width="100" style="border-radius: 50%; border: 2px solid #30363d;"/>
+  </a>
   
   <br>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+LinJohn8+%F0%9F%9A%80" alt="Typing SVG" style="margin-left: 25px;" />
   </a>
+
+  <br>
+
+  <p>
+    <b>✨ AKA / 也可以叫我 ✨</b><br>
+    <code>翰文侍林</code> • <code>多方通行8</code> • <code>翰文侍林&多方通行8</code><br>
+    <code>HWSLandDFTX8</code> • <code>HWSL</code> • <code>DFTX8</code> • <code>LinJohn8</code>
+  </p>
+
+  <p>📍 China</p>
+
+  <p>
+    <a href="https://LinJohn8.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Personal_Site-282C34?style=for-the-badge&logo=github&logoColor=white" alt="Personal Website"/>
+    </a>
+    <a href="https://orcid.org/0009-0004-7767-2304" target="_blank">
+      <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+    </a>
+    <a href="https://blog.csdn.net/q244645787" target="_blank">
+      <img src="https://img.shields.io/badge/CSDN_Blog-FC5531?style=for-the-badge" alt="CSDN Blog"/>
+    </a>
+    <br>
+    <a href="https://www.zhihu.com/people/duo-fang-tong-xing-8" target="_blank">
+      <img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu"/>
+    </a>
+    <a href="https://space.bilibili.com/20210926" target="_blank">
+      <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/>
+    </a>
+  </p>
 
   <br>
 
